@@ -127,7 +127,7 @@ Vous pouvez suivre la progression en consultant les impressions « Progression 
 
 ## FAQ
 
-**Q : Ctrl + Maj + Je ne travaille pas**
+**Q : Ctrl + Maj + I ne fonctionne pas**
 
 R : Téléchargez le [client ptb](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64) ou utilisez [ceci](https://www.reddit.com/r/discordapp/comments/sc61n3/comment/hu4fw5x/) pour activer DevTools sur stable.
 
