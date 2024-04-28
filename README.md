@@ -129,7 +129,7 @@ Vous pouvez suivre la progression en consultant les impressions « Progression 
 
 **Q : Ctrl + Maj + Je ne travaille pas**
 
-R : Téléchargez le [client ptb] (https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64) ou utilisez [this] (https://www.reddit.com/r/discordapp/comments/sc61n3/comment/hu4fw5x/) pour activer DevTools sur stable.
+R : Téléchargez le [client ptb](https://discord.com/api/downloads/distributions/app/installers/latest?channel=ptb&platform=win&arch=x64) ou utilisez [ceci](https://www.reddit.com/r/discordapp/comments/sc61n3/comment/hu4fw5x/) pour activer DevTools sur stable.
 
 
 **Q : Je reçois une erreur indiquant « Non autorisé »**
